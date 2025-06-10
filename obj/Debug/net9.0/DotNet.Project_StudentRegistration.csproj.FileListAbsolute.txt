@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\bin\Debug\net9.0\DotNet.Project_StudentRegistration.exe
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\bin\Debug\net9.0\DotNet.Project_StudentRegistration.deps.json
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\bin\Debug\net9.0\DotNet.Project_StudentRegistration.runtimeconfig.json
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\bin\Debug\net9.0\DotNet.Project_StudentRegistration.dll
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\bin\Debug\net9.0\DotNet.Project_StudentRegistration.pdb
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.AssemblyInfo.cs
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.dll
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\refint\DotNet.Project_StudentRegistration.dll
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.pdb
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\DotNet.Project_StudentRegistration.genruntimeconfig.cache
+C:\Users\User\Desktop\Projetos\Mini_Projetos\DotNet.Project_StudentRegistration\obj\Debug\net9.0\ref\DotNet.Project_StudentRegistration.dll
